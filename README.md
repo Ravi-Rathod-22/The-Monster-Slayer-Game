@@ -27,7 +27,8 @@ In the end of page there is a Battle Log to see log messages
 
 To play just open the ``index.html`` file in any browser.
 
-Or access this [link].
+Or access this Link : 
+  https://ravi-rathod-22.github.io/The-Monster-Slayer-Game/.
 
 
  ## ScreenShots from the game: <a name = "screen-shots"></a>
